@@ -41,20 +41,12 @@ header nav ul li a {
     font-weight: bold;
     font-size: 1.55vw;
 }
-header nav ul li a::before{
-            content: ""; 
-            width: 0px; 
-            height: 10px; 
-            background: green; 
-            position: absolute; 
-            top: 100%; 
-            left: 0; 
-            transition: .5s; 
-}
-header nav ul li a:hover::before{
-    width: 50%; 
-    transform: translateX(100%);
-}
+header nav ul li a:hover {
+    background: #CDCBCB;
+    color: #DB8A74;
+    border-radius: 15px;
+    text-shadow: none;
+  }
 
 
 /* Hero Style Start */
