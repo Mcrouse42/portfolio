@@ -145,19 +145,19 @@ header nav ul li a:hover {
     grid-column-end: 5; 
     grid-row-start: 1; 
     grid-row-end: 5; 
-    background-image: url("../assets/photos/Run Buddy.jpg");
+    background-image: url(../assets/photos/moversnotshakers.jpg);
   }
   .box2 {
-      background-image: url(../assets/photos/horieson.jpg); 
+      background-image: url(../assets/photos/Run-Buddy.jpg); 
   }
   .box3 {
-      background-image: url(../assets/photos/spotify.jpg); 
+      background-image: url(../assets/photos/horieson.jpg); 
   }
   .box4 {
-      background-image: url(../assets/photos/soundcloud.jpg); 
+      background-image: url(../assets/photos/spotify.jpg); 
   }
   .box5 {
-      background-image: url(../assets/photos/bandcamp.jpg);
+      background-image: url(../assets/photos/soundcloud.jpg);
   }
 
 
